@@ -97,7 +97,7 @@ Data cleaning and transformation were performed using **Power Query**, and calcu
 
 ## 📷 Dashboard Preview
 
-[![Ecommerce Sales Dashboard](Images/dashboard_preview.png)](https://github.com/anand193/-Ecommerce-Sales-Dashboard-Power-BI/blob/main/dashboard%20image%20preview.png)
+![Ecommerce Sales Dashboard](https://github.com/anand193/-Ecommerce-Sales-Dashboard-Power-BI/blob/main/dashboard%20image%20preview.png)
 
 ---
 
